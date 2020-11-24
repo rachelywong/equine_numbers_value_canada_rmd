@@ -64,7 +64,7 @@ max_horses <- horse_pop %>%
             Minimum = min(Value))
 
 kable(max_horses, 
-      caption = "Table 1. Maximum and minimum number of horses for each province between 1940 - 1972")
+      caption = "Table 1. Maximum and  minimum number of horses for each province between 1940 - 1972")
 
 ```
 
